@@ -1,2 +1,1 @@
-# curso-de-ruby
-repositorio para treinar ruby a partir de um curso que estou fazendo
+programinha para me ajudar a usar o git ao mesmo tempo que aprendo ruby
