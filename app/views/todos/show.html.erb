@@ -1,7 +1,17 @@
 <h1>Showing a Todo</h1>
+
 <p>
     name: <%=@todo.name%>
 </p>
+
 <p>
     description: <%=@todo.description%>
+</p>
+
+<p>
+    <%= link_to"Edit this Todo", edit_todo_path(@todo)%>
+</p>
+
+<p>
+    <%= link_to "Back", todos_path%>
 </p>
